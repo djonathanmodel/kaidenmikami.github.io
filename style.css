@@ -1,0 +1,59 @@
+body{
+    background: rgb(255,20,20);
+    background: linear-gradient(0deg, rgb(255, 86, 86) 0%, rgb(48, 48, 255) 100%);
+}
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    background: rgb(20,20,255);
+    background: linear-gradient(0deg, rgba(20,20,255,0.5) 0%, rgba(255,20,20,0.5) 100%);
+    height:max-content;
+    border-radius: 10%;
+    border:0.5em solid rgba(255,255,255,1);
+    padding-bottom:20%;
+    margin-top:4%;
+}
+.logo{
+    width: 30%;
+    margin-left:auto;
+    margin-right: auto;
+    display:flex;
+    border:0.2em solid #d33a3a;
+    border-radius: 10%;
+    margin-top:15px;
+}
+.items li{
+    display:flex;
+    list-style: none;
+}
+.items a{
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:1.5em;
+    text-align: center;
+    padding:0.5em;
+    border: 0.1em solid rgba(255,255,255,0.3);
+    background-color: rgba(72, 0, 131, 0.3);
+    border-radius: 10%;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top:5px;
+
+}
+.items{
+    margin-top:2em;
+}
+
+.items a:hover{
+    background-color:rgba(72, 0, 131,0.5);
+}
+.creditos{
+    display:block;
+    color:white;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
