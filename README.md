@@ -1,2 +1,1 @@
-# kaidenmikami.github.io
-My website lol
+Atualização para All My Links de https://www.twitch.tv/ekaiden
